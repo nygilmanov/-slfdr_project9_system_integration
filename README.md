@@ -30,9 +30,6 @@ The following is a system architecture diagram showing the ROS nodes and topics 
   </tr>
   </table>
 
-### Traffic Lights Classifier on Test Site
-
-If you want to get a good result, using [ROS `bags`](http://wiki.ros.org/Bags) that were recorded at the test site: [Traffic Light Detection Test Video](https://drive.google.com/file/d/0B2_h37bMVw3iYkdJTlRSUlJIamM/view?usp=sharing). The images are used to train traffic lights classifier based on the [**TensorFlow Object Detection API**](https://github.com/tensorflow/models/tree/master/research/object_detection). You will find the details on [my github repository](https://github.com/lilyhappily/CarND-Capstone-Traffic-Lights-Detection.git)
 
 # VM or Native **or** Docker Installation 
 
